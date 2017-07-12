@@ -1,4 +1,4 @@
-//날짜: 170524
+
 //이름: 김윤진
 //문제5: Graphic Editor
 
@@ -6,7 +6,6 @@
 #include <stdio.h>
 #include <ctype.h>
 #include <string.h>
-
 
 #define MAX 250
 
